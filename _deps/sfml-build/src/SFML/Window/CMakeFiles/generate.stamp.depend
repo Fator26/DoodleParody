@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageMessage.cmake
+D:/DoodleParody/Doodle/CMakeFiles/cmake.verify_globs
+D:/DoodleParody/Doodle/_deps/sfml-src/src/SFML/Window/CMakeLists.txt
+D:/DoodleParody/Doodle/_deps/sfml-src/tools/windows/resource.rc.in

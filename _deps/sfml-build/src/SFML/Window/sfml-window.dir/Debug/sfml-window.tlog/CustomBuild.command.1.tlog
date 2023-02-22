@@ -1,0 +1,10 @@
+^D:\DOODLEPARODY\DOODLE\_DEPS\SFML-SRC\SRC\SFML\WINDOW\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/DoodleParody/Doodle -BD:/DoodleParody/Doodle --check-stamp-file D:/DoodleParody/Doodle/_deps/sfml-build/src/SFML/Window/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

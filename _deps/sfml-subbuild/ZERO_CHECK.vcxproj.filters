@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\2d7e6f6c6fdd2ff2bf3f42f9acc9f6e7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0AFEE52-A0FF-3602-8A9A-199F2A44228F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

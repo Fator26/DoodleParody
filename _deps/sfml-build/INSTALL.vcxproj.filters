@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\DoodleParody\Doodle\CMakeFiles\8ae0c4321611bcd0ceb1eab2b401b3dc\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4EBF7807-1959-3BA8-81FB-274AA8A8959C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

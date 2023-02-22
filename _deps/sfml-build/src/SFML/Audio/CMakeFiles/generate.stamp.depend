@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindOpenAL.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageMessage.cmake
+D:/DoodleParody/Doodle/CMakeFiles/cmake.verify_globs
+D:/DoodleParody/Doodle/_deps/sfml-src/cmake/Modules/FindFLAC.cmake
+D:/DoodleParody/Doodle/_deps/sfml-src/cmake/Modules/FindVORBIS.cmake
+D:/DoodleParody/Doodle/_deps/sfml-src/src/SFML/Audio/CMakeLists.txt
+D:/DoodleParody/Doodle/_deps/sfml-src/tools/windows/resource.rc.in

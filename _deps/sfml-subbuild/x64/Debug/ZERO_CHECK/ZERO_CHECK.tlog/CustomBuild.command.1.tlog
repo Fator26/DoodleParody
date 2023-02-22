@@ -1,0 +1,10 @@
+^D:\DOODLEPARODY\DOODLE\_DEPS\SFML-SUBBUILD\CMAKEFILES\2D7E6F6C6FDD2FF2BF3F42F9ACC9F6E7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/DoodleParody/Doodle/_deps/sfml-subbuild -BD:/DoodleParody/Doodle/_deps/sfml-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/DoodleParody/Doodle/_deps/sfml-subbuild/sfml-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

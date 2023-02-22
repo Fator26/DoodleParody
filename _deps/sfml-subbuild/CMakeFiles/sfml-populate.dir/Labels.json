@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/2d7e6f6c6fdd2ff2bf3f42f9acc9f6e7/sfml-populate.rule"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/cd730f13f8ab0b1e5ce369464891103d/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/1ceaa29ab2c99a64e552b20819a51517/sfml-populate-build.rule"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/1ceaa29ab2c99a64e552b20819a51517/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/1ceaa29ab2c99a64e552b20819a51517/sfml-populate-download.rule"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/1ceaa29ab2c99a64e552b20819a51517/sfml-populate-install.rule"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/1ceaa29ab2c99a64e552b20819a51517/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/1ceaa29ab2c99a64e552b20819a51517/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/1ceaa29ab2c99a64e552b20819a51517/sfml-populate-test.rule"
+		},
+		{
+			"file" : "D:/DoodleParody/Doodle/_deps/sfml-subbuild/CMakeFiles/1ceaa29ab2c99a64e552b20819a51517/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

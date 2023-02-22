@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\1ceaa29ab2c99a64e552b20819a51517\sfml-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\1ceaa29ab2c99a64e552b20819a51517\sfml-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\1ceaa29ab2c99a64e552b20819a51517\sfml-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\1ceaa29ab2c99a64e552b20819a51517\sfml-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\1ceaa29ab2c99a64e552b20819a51517\sfml-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\1ceaa29ab2c99a64e552b20819a51517\sfml-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\1ceaa29ab2c99a64e552b20819a51517\sfml-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\1ceaa29ab2c99a64e552b20819a51517\sfml-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\cd730f13f8ab0b1e5ce369464891103d\sfml-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\2d7e6f6c6fdd2ff2bf3f42f9acc9f6e7\sfml-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\DoodleParody\Doodle\_deps\sfml-subbuild\CMakeFiles\sfml-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0AFEE52-A0FF-3602-8A9A-199F2A44228F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+D:/DoodleParody/Doodle/CMakeFiles/cmake.verify_globs
+D:/DoodleParody/Doodle/_deps/sfml-src/cmake/Modules/FindFreetype.cmake
+D:/DoodleParody/Doodle/_deps/sfml-src/src/SFML/Graphics/CMakeLists.txt
+D:/DoodleParody/Doodle/_deps/sfml-src/tools/windows/resource.rc.in
